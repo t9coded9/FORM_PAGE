@@ -10,6 +10,7 @@
 .first_background {
     background-color: #9ef1d5;
     padding: 20px;
+    text-align: center;
 }
 .second_line {
     text-align: center;
@@ -31,7 +32,6 @@
 }
 .letter {
     width: 500px;
-    text-align: center;
     background-color: antiquewhite;
 
 }
