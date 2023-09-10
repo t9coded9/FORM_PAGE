@@ -1,0 +1,34 @@
+.bk {
+    background-color: red;
+    height: 100px;
+    width: 500px;
+}
+.bk1{
+    background: linear-gradient( blue 50%, green, yellow);
+    height: 100px;
+    width: 500px;
+}
+.bk2{
+    background: repeating-linear-gradient(to left, green, blue 50%, black, green 20%);
+    height: 100px;
+    width: 500px;
+}
+.bk3{
+    background: radial-gradient( circle, blue, yellow, red);
+    height: 100px;
+    width: 200px;
+}
+.bk4{
+    background: repeating-radial-gradient(green, cyan, blue, grey);
+    height: 100px;
+    width: 200px;
+}
+.bk5{
+    background-image: url('/cassette\ shirt\ 3\ FILE.png'), url('/cassette\ shirt\ 3\ FILE.png') ;
+    height: 100px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+
+}
