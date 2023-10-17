@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+section {
+
+    background-image: url('/landingpage1/neom.jpg');
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* border-radius: 10px; */
+    background-attachment: scroll;
+    padding: 40px 50px 0px 50px;
+  
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.brand {
+    color: white;
+    font-size: 18px;
+}
+.brand:hover {
+    color: blueviolet;
+}
+li {
+    display: inline;
+    padding-right: 20px;
+    color: white;
+}
+.btn1 {
+    background-color: white;
+    color: black;
+    width: 55px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid white;
+    color: blueviolet;
+
+}
+.btn1:hover {
+    background-color: blueviolet;
+    border: 1px solid white;
+    color: white;
+
+}
+
+.text {
+    padding-top: 160px;
+    border: 0px solid grey;
+    width: 45%;
+    color: white;
+    padding-bottom: 30px;
+
+}
+h4 {
+    font-size: 70px;
+    line-height: 100px;
+}
+p {
+    font-size: 27px;
+    line-height: 30px;
+}
+.btn2 {
+    background-color: white;
+    color: black;
+    width: 120px;
+    height: 25px;
+    border-radius: 12px;
+    border: 1px solid white;
+    color: blueviolet;
+
+}
+.btn2:hover {
+    background-color: blueviolet;
+    border: 1px solid white;
+    color: white;
+    box-shadow: 5px 4px grey;
+
+}
