@@ -6,8 +6,7 @@ body {
     padding: 10px
 }
 section {
-
-    background-image: url('/landingpage1/neom.jpg');
+    background-image: url('neom.jpg');
     height: 800px;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -17,8 +16,7 @@ section {
 }
 
 section:hover {
-
-    background-image: url('/landingpage1/john.jpg');
+    background-image: url('john.jpg');
     height: 800px;
     background-repeat: no-repeat;
     background-size: 100% 100%;
